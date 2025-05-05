@@ -41,15 +41,15 @@ This Power BI project presents a dashboard created to analyze and visualize key 
 ## 📷 Dashboard Screenshots
 
 ### 🔸 Call Volume Overview
-![Call Volume Overview](./screenshots/call_volume_overview.png)
+![Call Volume Overview](./Screenshots/call_volume_overview.png)
 
 ### 🔸 Demographics Breakdown
-![Demographics Overview](./screenshots/demographics_overview.png)
+![Demographics Overview](./Screenshots/demographics_overview.png)
 
 ### 🔸 Risk & Concerns Overview
-![Risk and Concerns](./screenshots/risk_concerns_overview.png)
+![Risk and Concerns](./Screenshots/risk_concerns_overview.png)
 
-> 🔗 For a full dashboard walkthrough, you can download the PDF from the [`/docs`](./docs/Dashboard_Preview.pdf) folder.
+> 🔗 For a full dashboard walkthrough, you can download the PDF from the [`/docs`](./Docs/Dashboard_Preview.pdf) folder.
 
 ---
 
