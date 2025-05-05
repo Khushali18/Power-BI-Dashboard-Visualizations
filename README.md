@@ -10,7 +10,7 @@ In this repository, I will be adding curated Power BI dashboards, visual analyti
 
 This project showcases a Power BI dashboard built to analyze key trends from a mental health support organization. It provides insights into client demographics, risk assessment patterns, and service engagement across communication channels.
 
-🔗 **View the full project folder here:** [Mental Health Support Dashboard](./Mental-Health-Support-Dashboard)
+🔗 **View the full project folder here:** [Mental Health Support Dashboard](./Mental Health Support Dashboard)
 
 ---
 
